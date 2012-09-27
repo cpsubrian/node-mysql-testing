@@ -1,0 +1,20 @@
+{
+  "name": "mysql-testing",
+  "description": "Testing mysql",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Brian Link <cpsubrian@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cpsubrian/node-mysql-testing.git"
+  },
+  "dependencies": {
+    "mysql": "~2.0.0",
+    "benchmarx": "~0.2.3"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
